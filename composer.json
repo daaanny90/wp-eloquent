@@ -1,17 +1,17 @@
 {
-    "name": "tareq1988/wp-eloquent",
+    "name": "daaanny90/wp-eloquent",
     "description": "Eloquent ORM for WordPress",
     "keywords": ["wordpress", "plugin", "orm", "eloquent", "sql"],
-    "homepage": "https://github.com/tareq1988/wp-eloquent",
+    "homepage": "https://github.com/daaanny90/wp-eloquent",
     "require": {
-        "illuminate/database": "^5.4",
-        "illuminate/pagination": "^5.4"
+        "illuminate/database": "^9.6",
+        "illuminate/pagination": "^9.6"
     },
     "license": "GPL-2.0-or-later",
     "authors": [
         {
-            "name": "Tareq Hasan",
-            "email": "tareq@wedevs.com"
+            "name": "Danny Spina",
+            "email": "danny@ostec.de"
         }
     ],
     "autoload" : {
